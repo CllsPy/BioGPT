@@ -3,6 +3,9 @@
 BioGPT is a pre-trained language model developed by Microsoft, specialized in generating and mining biomedical text. It is based on the GPT-2 architecture and trained on millions of scientific articles to perform tasks like question answering, data extraction, and generating relevant biomedical literature.
 [GitHub Repository](https://github.com/microsoft/BioGPT?utm_source=chatgpt.com)
 
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
+![PyTorch 1.12.0](https://img.shields.io/badge/PyTorch-1.12.0-red.svg)
 
 ## Description
 
@@ -52,15 +55,6 @@ print(output)
 ```
 
 [Example Reference](https://github.com/microsoft/BioGPT/issues/36?utm_source=chatgpt.com)
-
-
-## Badges
-
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
-![PyTorch 1.12.0](https://img.shields.io/badge/PyTorch-1.12.0-red.svg)
-
-Badges quickly convey license, Python, and PyTorch versions used.
 
 ## References
 
