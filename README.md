@@ -41,12 +41,8 @@ cd BioGPT
 ### 2. Install dependencies
 ```bash
 # Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-# venv\Scripts\activate   # Windows
-
-# Install packages
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate biogpt-chatbot
 ```
 
 > **Note**: The first run will download the BioGPT model (~1.5 GB) from Hugging Face.
