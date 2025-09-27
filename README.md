@@ -20,9 +20,9 @@
 **BioGPT-Lab** brings the power of [Microsoft’s BioGPT](https://huggingface.co/microsoft/BioGPT)—a large language model fine-tuned on biomedical literature—into an easy-to-use web interface.  
 
 Built with:
-- 🧠 **BioGPT** for domain-specific, accurate biomedical responses  
-- ⚡ **FastAPI** backend for robust, scalable inference  
-- 🖥️ **Streamlit** frontend for a clean, responsive user experience  
+- **BioGPT** for domain-specific, accurate biomedical responses  
+- **FastAPI** backend for robust, scalable inference  
+- **Streamlit** frontend for a clean, responsive user experience  
 
 Perfect for researchers, students, and clinicians who want to explore scientific knowledge without leaving their browser.
 
