@@ -95,13 +95,13 @@ Feel free to open an issue or submit a PR!
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
 
-> ⚠️ **Disclaimer**: BioGPT-Lab is for **research and educational purposes only**. It is not a medical diagnostic tool. Always consult a healthcare professional for medical advice.
+> **Disclaimer**: BioGPT-Lab is for **research and educational purposes only**. It is not a medical diagnostic tool. Always consult a healthcare professional for medical advice.
 
 
 
 <div align="center">
 
-✨ **Empowering biomedical discovery through accessible AI** ✨
+  **Empowering biomedical discovery through accessible AI** ✨
 
 </div>
 
