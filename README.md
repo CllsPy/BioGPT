@@ -12,7 +12,7 @@
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-BioGPT-orange)](https://huggingface.co/microsoft/BioGPT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
-![BioGPT-Lab Screenshot](assets/screenshot.png)
+<img width="931" height="382" alt="image" src="https://github.com/user-attachments/assets/fc1d609e-3dbd-4f89-9ee0-5e8842da2363" />
 
 </div>
 
