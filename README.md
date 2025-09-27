@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔬 BioGPT-Lab
+# BioGPT-Lab
 
 ### An interactive biomedical AI assistant powered by BioGPT  
 *Ask questions about biology, medicine, and scientific literature—right from your browser.*
@@ -16,7 +16,7 @@
 
 </div>
 
-## 🌟 Overview
+## Overview
 
 **BioGPT-Lab** brings the power of [Microsoft’s BioGPT](https://huggingface.co/microsoft/BioGPT)—a large language model fine-tuned on biomedical literature—into an easy-to-use web interface.  
 
@@ -27,9 +27,7 @@ Built with:
 
 Perfect for researchers, students, and clinicians who want to explore scientific knowledge without leaving their browser.
 
----
-
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.9+
@@ -52,7 +50,7 @@ source venv/bin/activate  # Linux/macOS
 pip install -r requirements.txt
 ```
 
-> 💡 **Note**: The first run will download the BioGPT model (~1.5 GB) from Hugging Face.
+> **Note**: The first run will download the BioGPT model (~1.5 GB) from Hugging Face.
 
 ### 3. Launch the backend
 ```bash
@@ -87,9 +85,7 @@ Response:
 {"response": "mRNA vaccines work by..."}
 ```
 
-
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Whether it’s:
 - Adding new biomedical evaluation metrics  
@@ -101,7 +97,7 @@ Feel free to open an issue or submit a PR!
 
 
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
 
@@ -114,16 +110,14 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 ✨ **Empowering biomedical discovery through accessible AI** ✨
 
 </div>
-```
 
-
-### 🖼️ Assets Recommendation
+### Assets Recommendation
 
 - Add a real screenshot of your Streamlit app to `assets/screenshot.png` (you can take one after running locally).
 - If you have a logo or diagram (e.g., architecture flow), include it!
 
 
-### ✅ Next Steps for You
+### Next Steps for You
 
 1. **Add the screenshot** to your repo under `/assets`.
 2. **Verify port numbers** in the README match your actual setup (currently assumes 8000 for FastAPI, 8501 for Streamlit).
