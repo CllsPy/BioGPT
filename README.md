@@ -56,13 +56,9 @@ print(output)
 
 ## Badges
 
-Add badges to highlight key info in your README:
-
-```markdown
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![PyTorch 1.12.0](https://img.shields.io/badge/PyTorch-1.12.0-red.svg)
-```
 
 Badges quickly convey license, Python, and PyTorch versions used.
 
