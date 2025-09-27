@@ -1,0 +1,20 @@
+# Ambiente
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv/conda
+.venv/
+venv/
+.envrc
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+*.egg-info/
