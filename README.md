@@ -96,23 +96,3 @@ Feel free to open an issue or submit a PR!
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
 
 > **Disclaimer**: BioGPT-Lab is for **research and educational purposes only**. It is not a medical diagnostic tool. Always consult a healthcare professional for medical advice.
-
-
-
-<div align="center">
-
-  **Empowering biomedical discovery through accessible AI** ✨
-
-</div>
-
-### Assets Recommendation
-
-- Add a real screenshot of your Streamlit app to `assets/screenshot.png` (you can take one after running locally).
-- If you have a logo or diagram (e.g., architecture flow), include it!
-
-
-### Next Steps for You
-
-1. **Add the screenshot** to your repo under `/assets`.
-2. **Verify port numbers** in the README match your actual setup (currently assumes 8000 for FastAPI, 8501 for Streamlit).
-3. **Consider adding a `.env` example** if you plan to support API keys or model variants later.
