@@ -1,6 +1,7 @@
 <div align="center">
 
 # BioGPT-Lab
+<img width="931" height="382" alt="image" src="https://github.com/user-attachments/assets/fc1d609e-3dbd-4f89-9ee0-5e8842da2363" />
 
 ### An interactive biomedical AI assistant powered by BioGPT  
 *Ask questions about biology, medicine, and scientific literature—right from your browser.*
@@ -11,8 +12,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95%2B-009688)](https://fastapi.tiangolo.com/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-BioGPT-orange)](https://huggingface.co/microsoft/BioGPT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
-
-<img width="931" height="382" alt="image" src="https://github.com/user-attachments/assets/fc1d609e-3dbd-4f89-9ee0-5e8842da2363" />
 
 </div>
 
