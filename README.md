@@ -4,7 +4,7 @@ BioGPT is a pre-trained language model developed by Microsoft, specialized in ge
 [GitHub Repository](https://github.com/microsoft/BioGPT?utm_source=chatgpt.com)
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Python 3.11](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![PyTorch 1.12.0](https://img.shields.io/badge/PyTorch-1.12.0-red.svg)
 
 ## Description
