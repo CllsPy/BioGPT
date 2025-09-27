@@ -1,4 +1,6 @@
-## BioGPT: Transforming Biomedical Research with AI
+## BioGPT
+
+<img width="922" height="402" alt="image" src="https://github.com/user-attachments/assets/12294fdb-31c3-4d53-9d52-016daef0be86" />
 
 BioGPT is a pre-trained language model developed by Microsoft, specialized in generating and mining biomedical text. It is based on the GPT-2 architecture and trained on millions of scientific articles to perform tasks like question answering, data extraction, and generating relevant biomedical literature.
 [GitHub Repository](https://github.com/microsoft/BioGPT?utm_source=chatgpt.com)
