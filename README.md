@@ -1,6 +1,3 @@
-Aqui está uma sugestão de README para **BioGPT**:
-
-```markdown
 # BioGPT — Geração de Texto Biomédico com GPT Especializado 🚀
 
 ## Descrição
@@ -146,4 +143,3 @@ Este projeto ainda não possui uma licença explícita. Verifique junto ao autor
 
 Se quiser, posso gerar uma versão personalizada (em português, com detalhes específicos do seu código) e já preparar para publicação no GitHub. Você quer isso?
 ::contentReference[oaicite:0]{index=0}
-```
